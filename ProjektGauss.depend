@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1609171006 source:c:\users\benek\desktop\algorytmy analizy numerycznej\projektgauss\main.cpp
+	<iostream>
+	<fstream>
+	<locale.h>
+	<cmath>
+
